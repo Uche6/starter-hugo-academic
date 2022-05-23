@@ -71,7 +71,5 @@ email: 'uxu5008@psu.edu'
 highlight_name: true
 ---
 
-I am an Informatics M.S. student at Pennsylvania State University. My interests are in Software Development and UI/UX Design. My current research is in Human-Computer Interaction. I have experience creating apps and interfaces with React and Flutter. 
-
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
