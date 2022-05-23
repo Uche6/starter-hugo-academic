@@ -71,7 +71,4 @@ highlight_name: true
 I am an Informatics M.S. student at Pennsylvania State University. My interests are in Software Development and UI/UX Design. My current research is in Human-Computer Interaction. I have experience creating apps and interfaces with React and Flutter. 
 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
