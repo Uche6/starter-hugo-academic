@@ -22,6 +22,8 @@ interests:
   - UI/UX Design
   - Human Computer Interaction
   - Animation
+  - Machine Learning
+  - AI
 
 # Education to show in About widget
 education:
