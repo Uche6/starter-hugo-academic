@@ -72,4 +72,4 @@ highlight_name: true
 
 I am a Software Developer and UI/UX Designer. I graduated with a MS degree in Informatics with a focus in Human-Computer Interaction at the Pennsylvannia State University in May 2022. My research focuses on understanding the effects of micro-service on promote collective action for gig-platform workers. I have experience creating applications in React and Flutter. My hobbies include drawing, baking, writing poems, playing videos games and reading manga. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
