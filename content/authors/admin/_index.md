@@ -10,7 +10,7 @@ role: Software Developer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Penn State University
+  - name: Pennsylvania State University
     url: https://www.psu.edu
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,10 +27,7 @@ interests:
 education:
   courses:
     - course: MS in Informatics
-      institution: Penn State
-      year: 2022
-    - course: MS in Informatics
-      institution: Penn State
+      institution: Pennsylvania State University 
       year: 2022
     - course: BS in Information Systems
       institution: University of Maryland Baltimore County
