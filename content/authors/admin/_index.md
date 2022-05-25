@@ -70,5 +70,5 @@ email: 'uxu5008@psu.edu'
 highlight_name: true
 ---
 
-I am a Software Developer and UI/UX Designer. I graduated with a MS degree in Informatics with a focus in Human-Computer Interaction at the Pennsylvannia State University in May 2022. My research focuses on understanding the effects of micro-services on collective action for gig-platform workers. I have experience creating applications in React and Flutter. My hobbies include drawing, baking, writing poems, playing videos games and reading manga. 
+I am a Software Developer and UI/UX Designer. I graduated with a MS degree in Informatics with a focus in Human-Computer Interaction at the Pennsylvannia State University in May 2022. My research focuses on understanding the effects of micro-services on collective action for gig-platform workers. I have experience creating applications in React and Flutter. My hobbies include drawing, baking, writing poems, playing videos games and reading manga.
 
