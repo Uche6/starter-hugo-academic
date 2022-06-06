@@ -43,9 +43,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:uxu5008@psu.edu"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/ababa_nna
+  # - icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/ababa_nna
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #  icon_pack: fas
   #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
